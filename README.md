@@ -65,13 +65,13 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/nam.hoai.608660/" target="blank">
+  <a href="https://www.facebook.com/nam.hoai.608660/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoainamdev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/hoai-nam-389bb63a7/" target="blank">
+  <a href="https://www.linkedin.com/in/hoai-nam-389bb63a7/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hoainamdev-linkedin" />
   </a>
-  <!-- <a href="https://instagram.com/hoainamdev" target="blank">
+  <!-- <a href="https://instagram.com/hoainamdev" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hoainamdev-instagram" />
   </a> -->
   <a href="mailto:hoainam7012@gmail.com" target="top">
